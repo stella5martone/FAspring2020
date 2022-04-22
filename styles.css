@@ -1,8 +1,18 @@
 body {
     background-color: rgb(247, 225, 193);
+    
 }
 
 p {
     font-family: Georgia;
     color: rgb(55, 131, 218);
+    font-weight: 900;
+    font-size: 3cm;
+
+}
+
+img {
+    width: 300px;
+    height: 400px;
+
 }
